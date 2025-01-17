@@ -1,0 +1,9 @@
+Useful videos for learning Unreal Engine:
+
+https://www.youtube.com/watch?v=n3x1fErlmYA - using UE5 w/ GitHub
+
+https://www.youtube.com/watch?v=6UlU_FsicK8&list=PLcu1YCSvLfH6gwinV1PnkQ-msrko1KUqK&index=12 - full course on UE5 (although ChatGPT is very useful for learning as well!)
+
+https://www.youtube.com/watch?v=GNABEvIaa08&list=PLcu1YCSvLfH6gwinV1PnkQ-msrko1KUqK&index=7 - getting started w/ UE5
+
+https://www.youtube.com/watch?v=xkSDw6Z4PKk&list=PLcu1YCSvLfH6gwinV1PnkQ-msrko1KUqK&index=2 - how to make combat feel satisfying
